@@ -85,3 +85,9 @@ Tracking einrichten:
 - **Sticky CTA** mit IntersectionObserver: erscheint wenn Hero-CTAs nicht sichtbar, verschwindet bei Kontakt-Sektion
 - **Micro-Copy unter CTAs**: "Kostenlos und unverbindlich – Antwort innerhalb von 48 Stunden"
 - **Comparison Summary Box** nach Vergleichstabelle: Cyan-Border links, Bold, klare Zusammenfassung
+
+### Learnings aus Kunden-Feedback (Februar 2026)
+
+- **Referenz-Vollständigkeit prüfen**: Sind ALLE auf korodur.de verfügbaren Referenzprojekte verlinkt? Unvollständige Referenzlisten schwächen das Trust-Signal massiv.
+- **CTA-Eindeutigkeit ("Einkäufer-Test")**: Quantitative Angebote aus Sicht eines Einkäufers lesen — kann die Formulierung als größere Bestellmenge missverstanden werden? Mengen immer explizit aufschlüsseln.
+- **Footer als Conversion-Element**: Footer darf kein toter Raum sein. Kompakt, mit klaren Links und Kontaktdaten. Kein Logo-Bild (verschwendet Platz), KORODUR-Schriftzug in Gabarito reicht.

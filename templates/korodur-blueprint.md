@@ -139,13 +139,14 @@ Footer:    bg-dark
 ### 3.1 Header
 
 - Sticky, weiß, Border-Bottom 1px Mittelgrau
-- Logo links: "KORODUR" in Gabarito Black, Dunkelblau
+- Logo links: KORODUR-Logo als Bild, **mindestens 72px Höhe** (nicht kleiner!)
 - Nav rechts: Anker-Links zu Sektionen, Bold, 0.9rem
 - Mobile: Hamburger-Button, Nav als Dropdown
 
 ### 3.2 Hero Section
 
 - Gradient: `linear-gradient(135deg, #ececed 0%, #ffffff 100%)`
+- **Hintergrundbild:** Opacity `.25–.30` (nicht unter .20 — Bild muss erkennbar sein, nicht nur erahnt)
 - H1: Produktversprechen in einem Satz
 - Subline: 1-2 Sätze Kontext
 - Key Figures: 4er Grid mit Zahl + Label (Cards)
@@ -197,10 +198,12 @@ Footer:    bg-dark
 
 ### 3.9 Footer
 
-- Dunkelblau, 2-Spalten Grid
+- Dunkelblau, kompaktes Layout (Flex oder 2-Spalten Grid)
+- **Kein Logo-Bild im Footer** — stattdessen "KORODUR" als Text in Gabarito Black (font-weight: 900, font-size: 1.6rem, uppercase)
 - Links: Firma-Daten (Adresse, Tel, E-Mail)
 - Rechts: Footer-Links (Impressum, Datenschutz, Produkte etc.)
-- Bottom-Bar: Claim "KORODUR – ... seit 1936. Made in Germany."
+- Optional: Bottom-Bar mit Claim "KORODUR – ... seit 1936. Made in Germany."
+- Kein übermäßiger Padding — Footer soll kompakt wirken, nicht Leerfläche füllen
 
 ### 3.10 Sticky CTA
 
@@ -247,6 +250,7 @@ Footer:    bg-dark
 - Primary CTA immer links/oben
 - Micro-Copy unter CTAs: Kostenloses Angebot betonen, Zeitrahmen nennen
   - "Kostenlos und unverbindlich – Antwort innerhalb von 48 Stunden."
+- **B2B-Einkäufer-Test:** Jede quantitative CTA-Aussage (Mengen, Rabatte, Aktionen) so formulieren, dass ein Einkäufer sie nicht missverstehen kann. Konkrete Zahlen ausschreiben: "Sie bestellen X, zahlen Y, Z geht auf uns" statt "X kaufen, Z geschenkt" (klingt nach X + Z).
 
 ### 4.4 Trust-Signale
 
@@ -255,6 +259,7 @@ Standardmäßig einsetzen:
    - Jahre Erfahrung, Projekte weltweit, Zertifizierung, Made in Germany
 2. **Referenzprojekte** (eigene Sektion oder in Zielgruppen-Tabs)
    - Mit Ort, Jahr, Verarbeiter, konkretem Ergebnis
+   - **Pflicht: ALLE auf korodur.de verfügbaren Referenzprojekte zum Produkt verlinken** — nicht nur eine Auswahl. Jede Referenzkarte bekommt einen "Referenzprojekt ansehen →" Link zur Website.
 3. **Testimonials** (Blockquote mit Zitat und Firma)
 4. **Trust-Liste** (unter Formular)
    - Kostenlos, Antwortzeit, kein Vertriebsdruck, Datenschutz
@@ -372,3 +377,8 @@ Small:   ≤ 480px        (Stack-Layout für Key Figures etc.)
 - [ ] Sticky CTA (IntersectionObserver)
 - [ ] Keine alert() oder Placeholder-Links
 - [ ] Mobile Responsive getestet (768px, 480px)
+- [ ] Logo im Header mindestens 72px hoch
+- [ ] Hero-Hintergrundbild Opacity ≥ .25 (Bild muss erkennbar sein)
+- [ ] Footer: Gabarito-Text statt Logo-Bild, kompaktes Layout
+- [ ] Alle verfügbaren Referenzprojekte von korodur.de verlinkt
+- [ ] CTA-Formulierungen auf B2B-Eindeutigkeit geprüft ("Einkäufer-Test")

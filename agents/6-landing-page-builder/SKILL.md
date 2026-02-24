@@ -105,3 +105,11 @@ Interaktive Komponenten implementieren:
 - **Cookie Banner**: Dunkelblau-Hintergrund, Akzeptieren + Ablehnen, Link zur Datenschutzerklärung
 - **Formular-Validierung**: Client-seitig mit has-error Klasse und error-msg Elementen
 - **Key Figures im Hero**: 4er Grid mit Zahl (font-weight:900, Cyan) + Label
+
+### Learnings aus Kunden-Feedback (Februar 2026)
+
+- **Logo-Größe**: Header-Logo mindestens `height: 72px`. Kleiner wirkt unprofessionell.
+- **Hero-Hintergrundbild**: Opacity `.25–.30` — das Bild muss erkennbar sein und Atmosphäre schaffen, nicht nur subtil erahnt werden. `.12` ist zu blass!
+- **Footer-Branding**: Kein Logo-Bild im Footer (verschwendet Platz, skaliert schlecht). Stattdessen `KORODUR` als Text in Gabarito Black (`font-weight: 900; font-size: 1.6rem; text-transform: uppercase`). Kompaktes Padding, kein Leerraum.
+- **Referenzprojekte**: ALLE auf korodur.de verfügbaren Referenzprojekte zum Produkt verlinken. Jede Referenzkarte muss einen Link "Referenzprojekt ansehen →" zur Website haben.
+- **CTA-Mengenangaben**: Quantitative Angebote immer ausschreiben ("Sie bestellen 96 Sack, zahlen nur 72" statt "2 Paletten kaufen, 24 Sack geschenkt"), da B2B-Einkäufer wörtlich lesen.

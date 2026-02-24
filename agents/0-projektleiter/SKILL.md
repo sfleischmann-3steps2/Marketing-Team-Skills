@@ -97,3 +97,13 @@ Kommunikation mit Nutzer/Auftraggeber:
 - Quality Audit anhand der Blueprint-Checkliste durchführen
 - Feedback priorisieren: Zuerst technische Showstopper (fehlende Datenschutz-Checkbox), dann Content, dann Design-Feinheiten
 - Konsistenz zwischen Seiten sicherstellen (gleiche CTA-Texte, gleiche Farbwerte, gleiche Formular-Struktur)
+
+### Review-Checkliste (Learnings aus Kunden-Feedback, Februar 2026)
+
+Bei jedem Landing Page Review zusätzlich prüfen:
+- [ ] **Logo-Größe**: Header-Logo ≥ 72px? (Zu kleines Logo wirkt unprofessionell)
+- [ ] **Hero-Bild**: Hintergrundbild gut erkennbar? (Opacity ≥ .25, nicht .12)
+- [ ] **CTA-Eindeutigkeit**: Mengenangaben in Aktionen/Angeboten aus Einkäufer-Perspektive lesen — kann es missverstanden werden?
+- [ ] **Referenzen vollständig**: Alle auf korodur.de verfügbaren Referenzprojekte zum Produkt verlinkt?
+- [ ] **Footer**: Kompakt, kein Leerraum, Gabarito-Text statt Logo-Bild?
+- [ ] **Konsistenz oben/unten**: CTA-Formulierung im Hero identisch klar wie im Kontakt-Bereich?

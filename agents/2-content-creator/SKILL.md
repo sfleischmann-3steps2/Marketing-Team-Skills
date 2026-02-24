@@ -115,3 +115,9 @@ Werbeanzeigen-Texte schreiben:
 - Referenzprojekte: Mit konkreten Details (Ort, Jahr, Verarbeiter, Ergebnis) statt vage "zufriedene Kunden"
 - FAQ: Fragen formulieren wie echte Kundenanfragen, nicht als Marketing-Vehikel
 - Zielgruppen-Tabs: Je Tab ein H3, Bullet-Liste mit Benefits, spezifische Referenz, eigener CTA
+
+### Learnings aus Kunden-Feedback (Februar 2026)
+
+- **"Einkäufer-Test" für CTAs**: Jede quantitative Aussage (Mengen, Rabatte, Aktionen) muss so formuliert sein, dass ein B2B-Einkäufer sie nicht missverstehen kann. Beispiel: "2 Paletten kaufen, 24 Sack geschenkt" klingt nach 2 Paletten + 24 Sack obendrauf (= 2,5 Paletten Versand). Besser: "Sie bestellen 2 Paletten (96 Sack), zahlen nur 72 — 24 Sack gehen auf uns."
+- **Referenzen vollständig**: Immer ALLE verfügbaren Referenzprojekte von korodur.de einbinden, nicht nur eine Auswahl. Unvollständige Referenzlisten wirken wie Zurückhaltung.
+- **Konsistenz oben/unten**: Wenn die CTA-Formulierung im Hero sauber ist, muss sie auch im Footer/Kontakt-Bereich identisch klar sein. Nicht oben präzise und unten vage.

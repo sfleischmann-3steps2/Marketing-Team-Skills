@@ -49,10 +49,26 @@ Phase 4: Launch (parallel)
 
 **Übersichtsseite:** https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/
 
+### ARM-Kampagne
+
+| Seite | Link | Status |
+|-------|------|--------|
+| **Rapid Set ARM v2 (Produktseite)** | [Live](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-asphalt-repair-mix/landing-page/index.html) | Aktuell — wartet auf Kollegen-Feedback |
+
+Zielgruppe: Endkunden (via Händler-E-Mail). Reine Produktinformation ohne Aktionsangebot. Einziger CTA: "Größeres Projekt? Beratung anfragen."
+
+### Weitere Landing Pages
+
 | Produkt | Vollversion | Kurzversion |
 |---------|------------|-------------|
-| **Rapid Set ARM** | [Vollversion](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-asphalt-repair-mix/landing-page/index.html) | [Kurzversion](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-asphalt-repair-mix/landing-page/index-short.html) |
 | **NEODUR Level** | [Vollversion](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-neodur-autostore/landing-page/index.html) | [Kurzversion](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-neodur-autostore/landing-page/index-short.html) |
+
+### Archiv
+
+| Seite | Link | Archiviert |
+|-------|------|------------|
+| ARM v1 Frühjahrsaktion (Voll) | [Ansehen](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-asphalt-repair-mix/landing-page/archiv/index-v1-fruehjahrsaktion.html) | 27.02.2026 |
+| ARM v1 Frühjahrsaktion (Kurz) | [Ansehen](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-asphalt-repair-mix/landing-page/archiv/index-short-v1-fruehjahrsaktion.html) | 27.02.2026 |
 
 ## Projektstruktur
 
@@ -62,7 +78,17 @@ agents/           # Agent-Definitionen (SKILL.md pro Agent)
 workflows/        # Workflow-Definitionen
 templates/        # Vorlagen (Briefings, etc.)
 projekte/         # Landing Pages und Projektdateien
-assets/           # Gemeinsame Assets (Logo, etc.)
+  korodur-asphalt-repair-mix/
+    briefing.md                        # Original-Briefing (v1)
+    05-briefing-v2-produktseite.md     # Briefing v2 (aktuell)
+    06-strategie-update-v2.md          # Strategie v2
+    07-seo-update-v2.md                # SEO v2
+    08-landing-page-content-v2.md      # Content v2
+    09-cro-review-v2.md                # CRO Review v2
+    landing-page/
+      index.html                       # Aktuelle LP (v2)
+      archiv/                          # v1 Versionen
+assets/           # Gemeinsame Assets (Logo, Bilder, Produktfoto)
 ```
 
 ## Quellen & Inspiration

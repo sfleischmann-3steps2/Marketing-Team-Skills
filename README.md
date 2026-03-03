@@ -54,8 +54,10 @@ Phase 4: Launch (parallel)
 | Seite | Link | Status |
 |-------|------|--------|
 | **Rapid Set ARM v2 (Produktseite)** | [Live](https://sfleischmann-3steps2.github.io/Marketing-Team-Skills/projekte/korodur-asphalt-repair-mix/landing-page/index.html) | Aktuell — wartet auf Kollegen-Feedback |
+| **Print-Onepager A4 einseitig** | [HTML](projekte/korodur-asphalt-repair-mix/print/print-onepager-a4-einseitig.html) | Fertig (03.03.2026) |
+| **Print-Onepager A4 zweiseitig** | [HTML](projekte/korodur-asphalt-repair-mix/print/print-onepager-a4-zweiseitig.html) | Fertig (03.03.2026) |
 
-Zielgruppe: Endkunden (via Händler-E-Mail). Reine Produktinformation ohne Aktionsangebot. Einziger CTA: "Größeres Projekt? Beratung anfragen."
+Zielgruppe: Endkunden direkt (Kommunen, GaLa-Bau, Facility Manager, Verarbeiter). Landing Page: Produktinformation ohne Aktionsangebot. Print-Onepager: Postalischer Versand mit Frostschäden-Aufhänger, QR-Code zur Landing Page.
 
 ### Weitere Landing Pages
 
@@ -85,9 +87,16 @@ projekte/         # Landing Pages und Projektdateien
     07-seo-update-v2.md                # SEO v2
     08-landing-page-content-v2.md      # Content v2
     09-cro-review-v2.md                # CRO Review v2
+    10-briefing-print-onepager.md      # Briefing Print-Onepager
+    11-strategie-print-onepager.md     # Print-Strategie
+    12-content-print-onepager.md       # Print-Texte
+    13-cro-review-print-onepager.md    # CRO-Review Print
     landing-page/
       index.html                       # Aktuelle LP (v2)
       archiv/                          # v1 Versionen
+    print/
+      print-onepager-a4-einseitig.html   # Variante A (1 Seite)
+      print-onepager-a4-zweiseitig.html  # Variante B (2 Seiten)
 assets/           # Gemeinsame Assets (Logo, Bilder, Produktfoto)
 ```
 
